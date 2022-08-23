@@ -1,4 +1,4 @@
-# Laravel 8 提供 Composer 插件正規化 Composer 設定檔
+# Laravel 9 提供 Composer 插件正規化 Composer 設定檔
 
 引入 ergebnis 的 composer-normalize 套件來擴增提供 Composer 插件正規化 Composer 設定檔，Composer 設定檔是一個 JavaScript Object Notation（JSON）資料格式的設定檔，提供資訊給 Composer，讓它知道要安裝什麼套件，及該套件的版本。
 
@@ -28,5 +28,5 @@ $ composer normalize {選項}
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/LR3HfdK.png)
+![](https://i.imgur.com/8uJcnLL.png)
 > 正規化 Composer 設定檔的差別
